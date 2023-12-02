@@ -19,12 +19,12 @@ Having image on a caro board with 2 differents blobs of star and diamonds
 Some image like this: ![Alt text](image-4.png)
 -> K-means
 
+# 6. How to make it better?
+-> imposter (makes k=3)
+
 # 5.1 The same as 4. but another image
 ![Alt text](image-5.png)
 -> DB Algo
-
-# 6. How to make it better?
--> imposter (makes k=3)
 
 # 6.1. How to make it better?
 - Jsp :v
