@@ -10,6 +10,7 @@
 # 4 Caculer Gini donnant la formule: ![Alt text](image-2.png)
 Total 30 donnees dont 15 class 1, 0 class 2 et 15 class 3
 - 0.5
+1- ((15/30)^2 + 0 + (15/30)^2) = 0.5
 # 5 Qu'est ce qui fait qu'un noeud est de bonne qualité ? Indice de gini: 
 - faible
 (impur = Gini elevé 
