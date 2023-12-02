@@ -22,7 +22,7 @@ Some image like this: ![Alt text](image-4.png)
 # 6. How to make it better?
 -> imposter (makes k=3)
 
-# 5.1 The same as 4. but another image
+# 5.1 The same as 5. but another image
 ![Alt text](image-5.png)
 -> DB Algo
 
