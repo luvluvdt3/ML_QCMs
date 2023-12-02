@@ -9,10 +9,10 @@
 - 4 différents abres genre: ![Alt text](image-1.png)
 # 4 Caculer Gini donnant la formule: ![Alt text](image-2.png)
 Total 30 donnees dont 15 class 1, 0 class 2 et 15 class 3
-- 0.75
 - 0.5
-- les autres mais j'ai oublié :v
 # 5 Qu'est ce qui fait qu'un noeud est de bonne qualité ? Indice de gini: 
 - faible
-- haut? 
-- rien
+(impur = Gini elevé 
+moins impur = Gini faible
+pur = Gini faible
+Moins pur = Gini elevé)
