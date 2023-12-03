@@ -22,7 +22,7 @@
 - determine weight of each neuronne (poids)
   
 # 7. What can we use as loss function? (Krysto a skip)
-- median error something
+- Mean Square Error (mse also: rmse) 
 
 # 8. Order of gradient descent 
 - output -> input
