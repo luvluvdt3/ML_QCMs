@@ -21,8 +21,11 @@
 # 6. Learning neural network meaning 
 - determine weight of each neuronne (poids)
   
-# 7. What can we use as loss function? (Krysto a skip)
-- Mean Square Error (mse also: rmse) 
+# 7. What can we use as loss function for regression?
+- Mean Square Error (mse also: rmse)
+
+# 7.1 What can we use as loss function for classification?
+- Binary crossentropy & categorical crossentropy
 
 # 8. Order of gradient descent 
 - output -> input
