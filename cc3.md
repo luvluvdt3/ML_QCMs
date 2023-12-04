@@ -27,7 +27,7 @@ Some image like this: ![Alt text](image-4.png)
 -> DB Algo
 
 # 6.1. How to make it better?
-- Jsp :v
+- epsilon? :v
   
 # 7. Giving 4 images of clustering, which ones are correct? Or none?
 -> None
